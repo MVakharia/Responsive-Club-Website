@@ -1,0 +1,22 @@
+* {
+    border:1px solid red;
+}
+
+nav {
+
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+   display: inline;
+}
+
+nav ul li a {
+    padding: 10px;
+
+    background-color: #8cfa8c;
+
+}
